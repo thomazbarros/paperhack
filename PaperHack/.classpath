@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/thomaz/Dropbox/Mestrado/2014-3/Recuperação de Informação/lucene/commons-math-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/thomaz/Dropbox/Mestrado/2014-3/Recuperação de Informação/lucene/pdfbox-app-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/thomaz/Dropbox/Mestrado/2014-3/Recuperação de Informação/lucene/lucene-analyzers-3.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/thomaz/Dropbox/Mestrado/2014-3/Recuperação de Informação/lucene/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/thomaz/Dropbox/Mestrado/2014-3/Recuperação de Informação/lucene/lucene-queryparser-3.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/thomaz/mestrado/RecuReco/lucene-4.10.2/misc/lucene-misc-4.10.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
